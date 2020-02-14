@@ -8,6 +8,7 @@ steps:
   commands:
   - echo hello
   - echo sansar
+  - sudo apt-get update
 
 - name: es
   image: alpine
