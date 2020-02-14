@@ -8,7 +8,7 @@ steps:
   commands:
   - echo hello
   - echo sansar
-  - sudo apt-get update
+  - echo duniya
 
 - name: es
   image: alpine
