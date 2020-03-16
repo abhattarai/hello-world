@@ -8,7 +8,7 @@ steps:
   commands:
   - echo hello
   - echo sansar
-  - echo world
+  - echo duniya
 
 - name: es
   image: alpine
