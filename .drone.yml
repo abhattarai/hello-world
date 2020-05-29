@@ -21,6 +21,18 @@ steps:
   - echo bonjour
   - echo monde
 
+- name: zr
+  image: alpine
+  commands:
+  - echo bonjour
+  - echo monde
+
+- name: nr
+  image: alpine
+  commands:
+  - echo bonjour
+  - echo monde
+
 trigger:
   branch:
   - master
