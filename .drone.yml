@@ -8,7 +8,7 @@ steps:
   commands:
   - echo hello
   - echo sansar
-  - echo ramro duniya chha hai sathi
+  - echo ramro duniya chha hai sathi!
 
 - name: es
   image: alpine
